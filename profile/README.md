@@ -1,3 +1,5 @@
+<img src="./avatar.png" width="96" height="96" alt="ParaPro mark">
+
 # ParaPro
 
 ParaPro is an Australian financial advice workspace for preparing Statements of Advice (SOAs). It brings client facts, adviser decisions, calculations, supporting evidence and document review into one case file.
