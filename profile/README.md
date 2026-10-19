@@ -15,6 +15,4 @@ The application is a proof of concept under active development. Its demo uses fi
 ## Explore
 
 - [ParaPro application](https://app.parapro.com.au) — sign-in is required.
-- [ParaPro on GitHub](https://github.com/ParaPro-SOA) — public project information and any repositories we choose to share.
-
-For product enquiries, use the contact details provided through the ParaPro application.
+The application source is currently private. This organization also hosts the public profile and may publish other project resources over time.
